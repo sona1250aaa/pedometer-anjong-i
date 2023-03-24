@@ -17,5 +17,6 @@
 
 
 # 프레젝트 전체 구상도
-![image](https://user-images.githubusercontent.com/96811668/227518420-c8709112-4a6b-482a-933a-bfcbd04a9481.png)
+![image](https://user-images.githubusercontent.com/96811668/227518596-b29db021-e036-4339-9bed-184143d89c1b.png)
+
 
