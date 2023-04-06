@@ -6,6 +6,15 @@
 이를 통해 고령층의 건강 증진, 나아가 고령층 의료비 절감 및 해당 인구의 사회 참여를 통한 지역 활성화를 기대를 하며 제작하였습니다
 
 
+# 기능에 따른 사용 라이브러리 및 기술 
++ MPAndroidChart 
++ SharedPerferences API
++ 보행 계수기 센서
++ viepager2
++ Foreground Services
++ SQLite
++ JAVA
+[구체적인 내용]()
 
 
 
@@ -15,8 +24,7 @@
 
 
 
-
-# 프레젝트 전체 구상도
+# 프로젝트 전체 구상도
 ![image](https://user-images.githubusercontent.com/96811668/227518596-b29db021-e036-4339-9bed-184143d89c1b.png)
 
 
