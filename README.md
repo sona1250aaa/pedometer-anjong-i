@@ -14,6 +14,7 @@
 + Foreground Services
 + SQLite
 + JAVA
+
 [구체적인 내용](https://github.com/sona1250aaa/pedometer-anjong-i/wiki/%EA%B8%B0%EB%8A%A5%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B5%AC%EC%B2%B4%EC%A0%81%EC%9D%B8-%EB%82%B4%EC%9A%A9)
 
 
